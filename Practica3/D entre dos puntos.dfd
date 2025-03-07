@@ -1,0 +1,81 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+67
+'Bienvenido usuario a la calculadora de distancia entre dos puntos'
+6
+3
+2
+x1
+1
+0
+2
+x2
+1
+0
+2
+y1
+1
+0
+6
+1
+2
+y2
+1
+0
+4
+1
+106
+'Este programa te ayudará a calcular la distancia entre dos puntos o cordenadas de un sistema cartesiano.'
+4
+1
+99
+'Introduce el valor del punto x1, de forma numérica. Puedes utilizar decimales, pero no fracciones'
+5
+1
+2
+x1
+4
+1
+99
+'Introduce el valor del punto y1, de forma numérica. Puedes utilizar decimales, pero no fracciones'
+5
+1
+2
+y1
+4
+1
+99
+'Introduce el valor del punto x2, de forma numérica. Puedes utilizar decimales, pero no fracciones'
+5
+1
+2
+x2
+4
+1
+99
+'Introduce el valor del punto y2, de forma numérica. Puedes utilizar decimales, pero no fracciones'
+5
+1
+2
+y2
+6
+1
+1
+D
+25
+sqrt((x2-x1)^2+(y2-y1)^2)
+4
+1
+42
+'La distancia entre los dos puntos es: ',D
+4
+1
+103
+'Felicidades usuario, sacaste la distancia entre estos dos puntos, ahora el programa se autodestruira.'
+1
