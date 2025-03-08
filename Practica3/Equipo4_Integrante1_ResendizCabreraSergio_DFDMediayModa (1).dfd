@@ -1,0 +1,401 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+71
+'Ingrese los valores de los cuales se desea obtener la media y la moda'
+8
+1
+1
+A
+1
+1
+0
+1
+1
+0
+1
+1
+0
+4
+1
+47
+'Ingrese el primer valor en un rango de 1 a 10'
+5
+1
+1
+A
+7
+0
+1
+22
+(A >= 1) AND (A <= 10)
+4
+1
+63
+'Error: Ingrese un valor dentro del rango de números de 1 a 10'
+5
+1
+1
+A
+7
+0
+1
+22
+(A >= 1) AND (A <= 10)
+4
+1
+63
+'Error: Ingrese un valor dentro del rango de números de 1 a 10'
+5
+1
+1
+A
+13
+13
+13
+13
+10
+8
+1
+1
+B
+1
+1
+0
+1
+1
+0
+1
+1
+0
+4
+1
+48
+'Ingrese el segundo valor en un rango de 1 a 10'
+5
+1
+1
+B
+7
+0
+1
+22
+(B >= 1) AND (B <= 10)
+4
+1
+63
+'Error: Ingrese un valor dentro del rango de números de 1 a 10'
+5
+1
+1
+B
+7
+0
+1
+22
+(B >= 1) AND (B <= 10)
+4
+1
+63
+'Error: Ingrese un valor dentro del rango de números de 1 a 10'
+5
+1
+1
+B
+13
+13
+13
+13
+10
+8
+1
+1
+C
+1
+1
+0
+1
+1
+0
+1
+1
+0
+4
+1
+47
+'Ingrese el tercer valor en un rango de 1 a 10'
+5
+1
+1
+C
+7
+0
+1
+22
+(C >= 1) AND (C <= 10)
+4
+1
+63
+'Error: Ingrese un valor dentro del rango de números de 1 a 10'
+5
+1
+1
+C
+7
+0
+1
+22
+(C >= 1) AND (C <= 10)
+4
+1
+63
+'Error: Ingrese un valor dentro del rango de números de 1 a 10'
+5
+1
+1
+C
+13
+13
+13
+13
+10
+9
+1
+20
+(A - TRUNC (A) != 0)
+7
+0
+1
+20
+(A - TRUNC (A) != 0)
+13
+4
+1
+25
+'Ingrese valores enteros'
+4
+1
+36
+'Ingrese el valor del primer número'
+5
+1
+1
+A
+4
+1
+37
+'Ingrese el valor del segundo número'
+5
+1
+1
+B
+4
+1
+36
+'Ingrese el valor del tercer número'
+5
+1
+1
+C
+13
+11
+9
+1
+20
+(B - TRUNC (B) != 0)
+7
+0
+1
+20
+(B - TRUNC (B) != 0)
+13
+4
+1
+25
+'Ingrese valores enteros'
+4
+1
+36
+'Ingrese el valor del primer número'
+5
+1
+1
+A
+4
+1
+37
+'Ingrese el valor del segundo número'
+5
+1
+1
+B
+4
+1
+36
+'Ingrese el valor del tercer número'
+5
+1
+1
+C
+13
+11
+9
+1
+19
+(C- TRUNC (C) != 0)
+7
+0
+1
+19
+(C- TRUNC (C) != 0)
+13
+4
+1
+25
+'Ingrese valores enteros'
+4
+1
+36
+'Ingrese el valor del primer número'
+5
+1
+1
+A
+4
+1
+37
+'Ingrese el valor del segundo número'
+5
+1
+1
+B
+4
+1
+36
+'Ingrese el valor del tercer número'
+5
+1
+1
+C
+13
+11
+6
+3
+1
+A
+1
+A
+1
+B
+1
+B
+1
+C
+1
+C
+6
+1
+5
+media
+21
+( (A) + (B) + (C) )/3
+6
+3
+5
+modaA
+1
+A
+5
+modaB
+1
+B
+5
+modaC
+1
+C
+7
+0
+1
+28
+A != B AND B != C AND A != C
+13
+4
+1
+79
+'La media es ', media, ' y la moda no existe ya que no se repite ningun número'
+13
+7
+0
+1
+5
+A = B
+7
+0
+1
+5
+B = C
+7
+0
+1
+5
+A = C
+13
+7
+0
+1
+6
+A != B
+13
+4
+1
+51
+'La media es ', media, ' y la moda es ', modaC, ' '
+13
+13
+13
+7
+0
+1
+6
+B != A
+13
+4
+1
+51
+'La media es ', media, ' y la moda es ', modaB, ' '
+13
+13
+13
+7
+0
+1
+6
+A != C
+7
+0
+1
+5
+A = C
+13
+4
+1
+51
+'La media es ', media, ' y la moda es ', modaA, ' '
+13
+13
+4
+1
+51
+'La media es ', media, ' y la moda es ', modaA, ' '
+13
+13
+4
+1
+51
+'¡Gracias por usar la calculadora de media y moda!'
+1
