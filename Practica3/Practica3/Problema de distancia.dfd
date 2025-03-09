@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+x1
+1
+0
+2
+y1
+1
+0
+6
+2
+2
+x2
+1
+0
+2
+y2
+1
+0
+4
+1
+88
+'Este programa calculará la distancia entre 2 puntos a partir de sus coordenadas en X,Y'
+4
+1
+42
+'ingresa la coordenada x del primer punto'
+5
+1
+2
+x1
+4
+1
+42
+'ingresa la coordenada y del primer punto'
+5
+1
+2
+y1
+4
+1
+43
+'ingresa la coordenada x del segundo punto'
+5
+1
+2
+x2
+4
+1
+43
+'ingresa la coordenada y del segundo punto'
+5
+1
+2
+y2
+6
+1
+1
+d
+27
+SQRT( (x1-x2)^2+(y1-y2 )^2)
+4
+1
+23
+'lla distancia es: ', d
+1
