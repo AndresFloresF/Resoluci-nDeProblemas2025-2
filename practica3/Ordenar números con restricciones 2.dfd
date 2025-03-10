@@ -1,0 +1,434 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+94
+'Ingrese los 3 números que se quieran ordenar de mayor a menor en su recuadro correspondiente'
+4
+1
+26
+'Ingrese el primer número'
+5
+1
+1
+A
+4
+1
+27
+'Ingrese el segundo número'
+5
+1
+1
+B
+4
+1
+26
+'Ingrese el tercer número'
+5
+1
+1
+C
+9
+1
+29
+(A = B) OR (A = C) OR (B = C)
+7
+0
+1
+5
+A = B
+7
+0
+1
+5
+A = C
+7
+0
+1
+5
+B = C
+13
+4
+1
+44
+'Error: Ingrese valores diferentes entre si'
+4
+1
+26
+'Ingrese el primer número'
+5
+1
+1
+A
+4
+1
+27
+'Ingrese el segundo número'
+5
+1
+1
+B
+4
+1
+26
+'Ingrese el tercer número'
+5
+1
+1
+C
+13
+13
+4
+1
+44
+'Error: Ingrese valores diferentes entre si'
+4
+1
+26
+'Ingrese el primer número'
+5
+1
+1
+A
+4
+1
+27
+'Ingrese el segundo número'
+5
+1
+1
+B
+4
+1
+26
+'Ingrese el tercer número'
+5
+1
+1
+C
+13
+13
+4
+1
+44
+'Error: Ingrese valores diferentes entre si'
+4
+1
+26
+'Ingrese el primer número'
+5
+1
+1
+A
+4
+1
+27
+'Ingrese el segundo número'
+5
+1
+1
+B
+4
+1
+26
+'Ingrese el tercer número'
+5
+1
+1
+C
+13
+11
+9
+1
+20
+(A - TRUNC (A) != 0)
+7
+0
+1
+20
+(A - TRUNC (A) != 0)
+13
+4
+1
+33
+'Error: Solo se permiten enteros'
+4
+1
+26
+'Ingrese el primer número'
+5
+1
+1
+A
+4
+1
+27
+'Ingrese el segundo número'
+5
+1
+1
+B
+4
+1
+26
+'Ingrese el tercer número'
+5
+1
+1
+C
+13
+11
+9
+1
+20
+(B - TRUNC (B) != 0)
+7
+0
+1
+20
+(B - TRUNC (B) != 0)
+13
+4
+1
+33
+'Error: Solo se permiten enteros'
+4
+1
+26
+'Ingrese el primer número'
+5
+1
+1
+A
+4
+1
+27
+'Ingrese el segundo número'
+5
+1
+1
+B
+4
+1
+26
+'Ingrese el tercer número'
+5
+1
+1
+C
+13
+11
+9
+1
+20
+(C - TRUNC (C) != 0)
+7
+0
+1
+20
+(C - TRUNC (C) != 0)
+13
+4
+1
+33
+'Error: Solo se permiten enteros'
+4
+1
+26
+'Ingrese el primer número'
+5
+1
+1
+A
+4
+1
+27
+'Ingrese el segundo número'
+5
+1
+1
+B
+4
+1
+26
+'Ingrese el tercer número'
+5
+1
+1
+C
+13
+11
+9
+1
+29
+(A = B) OR (A = C) OR (B = C)
+7
+0
+1
+5
+A = B
+7
+0
+1
+5
+A = C
+7
+0
+1
+5
+B = C
+13
+4
+1
+44
+'Error: Ingrese valores diferentes entre si'
+4
+1
+26
+'Ingrese el primer número'
+5
+1
+1
+A
+4
+1
+27
+'Ingrese el segundo número'
+5
+1
+1
+B
+4
+1
+26
+'Ingrese el tercer número'
+5
+1
+1
+C
+13
+13
+4
+1
+44
+'Error: Ingrese valores diferentes entre si'
+4
+1
+26
+'Ingrese el primer número'
+5
+1
+1
+A
+4
+1
+27
+'Ingrese el segundo número'
+5
+1
+1
+B
+4
+1
+26
+'Ingrese el tercer número'
+5
+1
+1
+C
+13
+13
+4
+1
+44
+'Error: Ingrese valores diferentes entre si'
+4
+1
+26
+'Ingrese el primer número'
+5
+1
+1
+A
+4
+1
+27
+'Ingrese el segundo número'
+5
+1
+1
+B
+4
+1
+26
+'Ingrese el tercer número'
+5
+1
+1
+C
+13
+11
+7
+0
+1
+5
+A < B
+7
+0
+1
+5
+A < C
+7
+0
+1
+5
+B < C
+4
+1
+45
+'EL ORDEN NUMERICO ES ', C,' < ',B,' < ',A,''
+13
+4
+1
+45
+'EL ORDEN NUMERICO ES ', B,' < ',C,' < ',A,''
+13
+13
+4
+1
+45
+'EL ORDEN NUMERICO ES ', B,' < ',A,' < ',C,''
+13
+13
+7
+0
+1
+5
+B < C
+7
+0
+1
+5
+A < C
+4
+1
+45
+'EL ORDEN NUMERICO ES ', C,' < ',A,' < ',B,''
+13
+4
+1
+47
+'EL ORDEN NUMERICO ES ', A,' < ', C,' < ', B,''
+13
+13
+4
+1
+57
+'EL ORDEN NUMERICO ES  ' ,  A , ' < ',B , ' < ', C , ' ' 
+13
+13
+1
